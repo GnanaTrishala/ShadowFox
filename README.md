@@ -1,4 +1,4 @@
-# ShadowFox
+# ShadowFox basic tasks
 Java Development
 
 Overview
